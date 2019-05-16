@@ -1,0 +1,6 @@
+operator+ 
++4x^3  +8x^5  
+operator-
+-0x^3  -0x^5  
+operator*
++4x^6  +8x^8  +16x^10  
